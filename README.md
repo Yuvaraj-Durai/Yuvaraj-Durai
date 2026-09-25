@@ -112,3 +112,5 @@ Learning** as the thread that connects the signal to the silicon.
 </p>
 
 <p align="center"><i>Open to research collaborations, internships, and roles in embedded AI, edge ML, and semiconductor-adjacent signal processing.</i></p>
+
+---
