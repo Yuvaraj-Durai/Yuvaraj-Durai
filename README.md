@@ -2,8 +2,7 @@
 <h3 align="center">PhD Researcher — ECG Signal Processing & Bioinformatics | Embedded AI/ML | IoT | Semiconductors</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=
-    Building+intelligent+hardware+from+silicon+to+signal;PhD+researcher+%7C+ECG+%2B+Bioinformatics;Embedded+ML+%C2%B7+IoT+%C2%B7+Semiconductor+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+intelligent+hardware+from+silicon+to+signal;PhD+researcher+%7C+ECG+%2B+Bioinformatics;Embedded+ML+%C2%B7+IoT+%C2%B7+Semiconductor+Systems" alt="Typing SVG" />
 </p>
 
 ---
