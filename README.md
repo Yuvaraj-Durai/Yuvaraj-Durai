@@ -100,10 +100,10 @@ Learning** as the thread that connects the signal to the silicon.
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:p20250409@goa.bits-pilani.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=OOsf7T4AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
