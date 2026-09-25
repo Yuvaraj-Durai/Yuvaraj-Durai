@@ -62,7 +62,7 @@ Learning** as the thread that connects the signal to the silicon.
 ---
 
 ### 📌 Current & Past Work
-/
+
 - 🩺 **[Project name]** — ECG arrhythmia classification using deep learning, evaluated on [dataset, e.g. PTB-XL/PhysioNet]
 - 📟 **[Project name]** — Real-time ECG acquisition and on-device inference on an embedded/IoT platform (e.g. STM32 / Raspberry Pi / edge TPU)
 - 🔧 **[Project name]** — Low-power signal-processing pipeline / hardware accelerator concept for biosignal ML
