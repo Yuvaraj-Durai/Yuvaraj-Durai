@@ -97,7 +97,7 @@ Learning** as the thread that connects the signal to the silicon.
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/yuvadurai" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvadurai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:p20250409@goa.bits-pilani.ac.in" target="_blank">
