@@ -90,17 +90,7 @@ See my full list on [Google Scholar](https://scholar.google.com/citations?user=O
  
 <!-- Add key papers here:
 - [Paper title], Journal/Conference, Year — [link]
--->
- 
----
- 
-<div align="center">
-*Open to research collaborations, internships, and roles in embedded AI, edge ML and semiconductor-adjacent signal processing.*
- 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=ff4d6d&style=flat-square"/>
-</div>
 
----
 
 ### 🌐 Connect With Me
 
