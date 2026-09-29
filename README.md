@@ -114,7 +114,7 @@ See my full list on [Google Scholar](https://scholar.google.com/citations?user=O
   <a href="https://scholar.google.com/citations?user=OOsf7T4AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
+  <a href="https://Yuvaraj-Durai.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
