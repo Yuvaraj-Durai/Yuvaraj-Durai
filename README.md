@@ -84,13 +84,21 @@ Learning** as the thread that connects the signal to the silicon.
 
 ---
 
-### 🎓 Publications / Research
-
-- [Paper title], [Conference/Journal], [Year] — [link]
-- [Paper title], [Conference/Journal], [Year] — [link]
-
-> If you don't have publications yet, replace this section with "Preprints & Working Papers" or a link to your
-> Google Scholar profile once you have one.
+## 🎓 Publications
+ 
+See my full list on [Google Scholar](https://scholar.google.com/citations?user=OOsf7T4AAAAJ&hl=en).
+ 
+<!-- Add key papers here:
+- [Paper title], Journal/Conference, Year — [link]
+-->
+ 
+---
+ 
+<div align="center">
+*Open to research collaborations, internships, and roles in embedded AI, edge ML and semiconductor-adjacent signal processing.*
+ 
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=ff4d6d&style=flat-square"/>
+</div>
 
 ---
 
